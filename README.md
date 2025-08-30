@@ -1,5 +1,6 @@
 # Banking-Fraud-Detection-and-Analytics
 A complete mini-banking system that manages accounts, loans, and transactions, detects fraud in real-time using machine learning, and visualizes analytics in Tableau
+
 ✨ Features 🔹 Core Banking (MySQL 8.0 + Python)
 
 Customers: deposit, withdraw, transfer, apply for loans.
